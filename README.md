@@ -1,6 +1,5 @@
-# xiaodan.github.io  
+xiaodan.github.io  
 ====================
-
 My newest version Personal Website  
 Personal Website 2.0
 
@@ -15,7 +14,7 @@ This means that you are free:
     to make commercial use of the work  
 
 Inspired by Stylehout CEEVEE Design (http://www.styleshout.com/).  
-Modified and Redesigned by Xiaodan Zhang (http://www.xiaodanzhang.com).  
+Modified and Redesigned by Xiaodan Zhang (http://xiaodanzhang.com).  
 
 Updates:  
 1/22/2015 Personal-Website-2.0.1: Added some latest news, 4 projects and several photos; fixed some typos and changed some CSS contents; updated the resume.  
