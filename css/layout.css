@@ -355,7 +355,7 @@ ul#nav li.current a { color: #F06000; } /* change from #F06000*/
 }
 
 #experience .info {
-    font: 16px/24px 'librebaskerville-italic', serif;
+    font: 18px/24px 'opensans-semibold-italic', serif;
     color: #2980b9; /* #6E7881 #c0392b */
     margin-bottom: 7px;
     margin-top: 3px;
@@ -379,9 +379,10 @@ ul#nav li.current a { color: #F06000; } /* change from #F06000*/
 }
 
 #experience .date {
-    font: 15px/24px 'opensans-regular', sans-serif;
+    font: 18px/24px 'opensans-semibold-regular', sans-serif;
     /* margin-top: 6px; */
-}
+} 
+
 
 
 /* ------------------------------------------------------------------ */
