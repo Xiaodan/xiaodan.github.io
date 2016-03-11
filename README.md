@@ -20,7 +20,8 @@ Updates:
 1/22/2015 Personal-Website-2.0.1: Added some latest news, 4 projects and several photos; fixed some typos and changed some CSS contents; updated the resume.  
 2/8/2015  Added a small fb like button as an iframe.  
 2/12/2015 Modified the Education page: Added two certificates info and volunteer work.  
-4/22/2015 Updated Resume, Latest News section and Education section.       
+4/22/2015 Updated Resume, Latest News section and Education section.    
+3/10/2016 Updated Resume, Latest News section with current employer information and Education section (Font changed).  
 
-© Xiaodan Zhang 2015 All Rights reserved.  
+© Xiaodan Zhang 2016 All Rights reserved.  
 
