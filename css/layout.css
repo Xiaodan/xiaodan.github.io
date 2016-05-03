@@ -225,7 +225,7 @@ ul#nav li.current a { color: #F06000; } /* change from #F06000*/
 }
 
 #about a:hover, #about a:focus { 
-    color: #ff9933; /* #11ABB0 */
+    color: #ECC0BF; /* #11ABB0 #ff9933 */
     border-bottom: none;
 }
 
