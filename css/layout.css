@@ -199,22 +199,22 @@ ul#nav li.current a { color: #F06000; } /* change from #F06000*/
 /* ------------------------------------------------------------------ */
 
 #about {
-    background: #A3B5D9; /* changed from #2B2B2B #00BDBD */
+    background: #DAEDF4; /* changed from #E6BBAD #2B2B2B #00BDBD #A3B5D9 */
     padding-top: 96px;
     padding-bottom: 60px; /* 66px */
     overflow: hidden;
     /* Do Not adjust Height here! */
     font-family: 'MuseoSlab500', sans-serif;
-    color: #fff;
+    color: #FFB733; /* #fff; */
 }
 
 #about .emp {
-    color:  #FCE969; /* #f1c60f;*/ /* #f39c12 orange */ 
+    color:  #91B1D2; /* #A3BED9 #FCE969 #f1c60f #f39c12 orange */ 
     font: normal;
 }
 
 #about a, #about a:visited  { 
-    color: #fff; 
+    color: #5BBB9B;  /* #A3D9C7 #fff; */
     border-bottom: 1px dashed #fff;
 }
 
@@ -225,7 +225,7 @@ ul#nav li.current a { color: #F06000; } /* change from #F06000*/
 }
 
 #about a:hover, #about a:focus { 
-    color: #ECC0BF; /* #11ABB0 #ff9933 */
+    color: #4AB390; /* #ECC0BF #11ABB0 #ff9933 */
     border-bottom: none;
 }
 
